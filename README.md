@@ -41,7 +41,7 @@ CUDA_VISIBLE_DEVICES=0 python evaluate_davis.py --resume checkpoints/APE_compact
 ```
 
 ### Training
-Step 1, first we need to run:
+Step 1, first we need to run one of the following:
 
 ```
 # Baseline + APE
