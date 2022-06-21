@@ -10,10 +10,10 @@ This repo contains the unofficial supported code and configuration files to repr
 
 | config | J&F | model | precomputed results |
 | :---: | :---: | :---: | :---: |
-| APE | 66.9 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_669.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_669.zip)
-| APE + compact prior | 69.0 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_compact_690.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_compact_690.zip) |
-| APE + inter-video reconstruction | 69.9 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_intervideo_699.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_intervideo_699.zip) |
-| APE + inter-video reconstruction + compact prior | 72.2 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_compact_intervideo_722.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/1.0/APE_compact_intervideo_722.zip) |
+| APE | 66.9 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_669.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_669.zip)
+| APE + compact prior | 69.0 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_compact_690.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_compact_690.zip) |
+| APE + inter-video reconstruction | 69.9 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_intervideo_699.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_intervideo_699.zip) |
+| APE + inter-video reconstruction + compact prior | 72.2 | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_compact_intervideo_722.pt) | [github](https://github.com/shasha521/LIIR_pytorch/releases/download/v1.0/APE_compact_intervideo_722.zip) |
 
 ## Usage
 
